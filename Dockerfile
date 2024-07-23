@@ -27,4 +27,4 @@ RUN npm install \
 
 EXPOSE 9000
 
-CMD ["sh", "-c", "sleep 20 && php artisan migrate --force && php artisan db:seed --class=SalesDataSeeder && php-fpm"]
+CMD ["sh", "-c", "php -v && sleep 30 && php artisan migrate --force && php artisan db:seed --class=SalesDataSeeder && php-fpm"]
