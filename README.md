@@ -19,7 +19,7 @@ git clone https://github.com/gustavosantana1/bi-laravel-vue.git
 2. Navigate to the Project Directory
 Move into the project directory:
 
-cd dashboard-bi
+cd bi-laravel-vue
 
 3. Build and Run the Docker Containers
 Use Docker Compose to build and start the application:
