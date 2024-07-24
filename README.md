@@ -29,8 +29,8 @@ docker-compose up --build
 
 This command will:
 
-Build the Docker images for the application and MySQL.
-Run database migrations and seed the initial data.
+Create the Docker images for the application and MySQL, as well as 
+perform database migrations and initial data seeding.
 
 4. Access the Application
 Once the containers are up and running, you can access the application at:
