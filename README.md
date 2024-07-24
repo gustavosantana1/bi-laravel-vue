@@ -7,6 +7,7 @@ Welcome to the Dashboard BI project! This is a comprehensive Business Intelligen
 Ensure you have the following installed on your machine:
 
 Git
+
 Docker
 
 <h3>📂 Project Setup</h3>
